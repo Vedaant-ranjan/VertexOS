@@ -135,8 +135,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Support Channels
 
-- **Bug Reports:** [GitHub Issues](https://github.com/vertex-os/VertexOS/issues)
-- **Feature Requests:** [GitHub Discussions](https://github.com/vertex-os/VertexOS/discussions)
+- **Bug Reports:** [GitHub Issues](https://github.com/Vedaant-ranjan/VertexOS/issues)
+- **Feature Requests:** [GitHub Discussions](https://github.com/Vedaant-ranjan/VertexOS/discussions)
 - **General Help:** [Discord Server](https://discord.gg/vertex-os)
 - **Documentation:** [Wiki](https://github.com/vertex-os/VertexOS/wiki)
 
