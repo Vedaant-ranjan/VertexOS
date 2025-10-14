@@ -120,9 +120,7 @@ The system is designed to be modular. Each component can be developed independen
 Join the VertexOS community for support, discussions, and contributions:
 
 - **GitHub Issues:** Report bugs and request features
-- **GitHub Discussions:** Community Q&A and general discussion
-- **Documentation Wiki:** User guides and developer documentation
-- **Discord Server:** Real-time community chat and support
+- **Discord Server:** Real-time community chat and support, Community Q&A and general discussion
 
 ### Contributing
 
@@ -135,10 +133,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Support Channels
 
-- **Bug Reports:** [GitHub Issues](https://github.com/Vedaant-ranjan/VertexOS/issues)
-- **Feature Requests:** [GitHub Discussions](https://github.com/Vedaant-ranjan/VertexOS/discussions)
-- **General Help:** [Discord Server](https://discord.gg/vertex-os)
-- **Documentation:** [Wiki](https://github.com/vertex-os/VertexOS/wiki)
+- **Bug Reports:** [GitHub Issues](https://https://github.com/Vedaant-ranjan/VertexOS/issues)
+- **General Help:** [Discord Server](https://discord.gg/HZs8dkrR)
 
 ## License
 
